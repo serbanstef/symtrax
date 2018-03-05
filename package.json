@@ -1,0 +1,10 @@
+{
+	"name": "EmployeeService",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"grunt": "^1.0.1",
+		"grunt-contrib-compress": "^1.4.1",
+		"load-grunt-tasks": "^3.5.2"
+	}
+}
